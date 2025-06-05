@@ -7,8 +7,8 @@ int main(){
     char Cidade[20];
     int CodigoDaCidade;
     int Populacao;
-    float Area;
-    float PIB;
+    int Area;
+    int PIB;
     int NumeroDePontosTuristicos;
 
     printf("Digite o Nome da Cidade: \n");
@@ -36,7 +36,7 @@ int main(){
     printf("\n");
     printf("Digite a Populacao: %d", Populacao);
     printf("\n");
-    printf("Digite a Area: %d",Area);
+    printf("Digite a Area: %d", Area);
     printf("\n");
     printf("Digite o PIB: %d", PIB);
     printf("\n");
